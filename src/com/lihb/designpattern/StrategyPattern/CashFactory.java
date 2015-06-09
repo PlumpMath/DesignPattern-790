@@ -1,0 +1,20 @@
+package com.lihb.designpattern.StrategyPattern;
+
+/**
+ * 类说明：
+ *
+ * @author Administrator
+ * @version 1.0
+ * @date 2015/6/9
+ */
+
+public class CashFactory  {
+
+    public static CashSuper createCash(int cashType) {
+
+        CashSuper cashSuper = null;
+
+
+        return cashSuper;
+    }
+}

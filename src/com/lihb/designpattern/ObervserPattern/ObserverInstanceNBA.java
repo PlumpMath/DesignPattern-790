@@ -2,7 +2,7 @@ package com.lihb.designpattern.ObervserPattern;
 
 /**
  * 类说明：
- * 司机观察者
+ * 看nba的观察者
  * @author Administrator
  * @version 1.0
  * @date 2015/6/11
